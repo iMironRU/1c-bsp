@@ -1,0 +1,27 @@
+# ─────────────────────────────────────────────
+#  ИДЕНТИФИКАЦИЯ КНИГИ
+# ─────────────────────────────────────────────
+title: "БСП: грамматика подключения"
+subtitle: "Как устроено внедрение стандартных подсистем 1С — и почему это те же паттерны, что во всех фреймворках"
+author: "Александр (iMironRU)"
+author_url: "https://github.com/iMironRU"
+language: ru
+license: "CC BY 4.0"
+
+version: "0.1.0"
+
+template_repo: "https://github.com/iMironRU/book-template"
+template_version: "v0.1.0"
+
+formats:
+  epub:       true
+  fb2:        true
+  pdf_a5:     true
+  pdf_a4:     false
+  html:       true
+  docx:       true
+  docx_a4:    false
+  site:       true
+
+release_filter: "review"
+nightly_filter: "all"
