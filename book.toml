@@ -1,6 +1,6 @@
 [book]
-title = "БСП: грамматика подключения"
-authors = ["Александр (iMironRU)"]
+title = "Название книги"        # обновляется через ./book.sh init
+authors = ["Автор"]
 language = "ru"
 src = "."
 

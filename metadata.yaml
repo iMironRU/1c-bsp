@@ -11,7 +11,7 @@ license: "CC BY 4.0"
 version: "0.1.0"
 
 template_repo: "https://github.com/iMironRU/book-template"
-template_version: "v0.1.0"
+template_version: "v0.2.1"
 
 formats:
   epub:       true
@@ -25,3 +25,8 @@ formats:
 
 release_filter: "review"
 nightly_filter: "all"
+
+# ─────────────────────────────────────────────
+#  САЙТ (GitHub Pages)
+# ─────────────────────────────────────────────
+site_url: "https://imiron.ru/1c-bsp-book/"
