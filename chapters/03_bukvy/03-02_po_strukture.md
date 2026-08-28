@@ -2,7 +2,7 @@
 status: draft
 ---
 
-## § 2.2 По структуре
+# § 3.2. По структуре
 
 > **Замысел:** convention over configuration; КИ, доп. реквизиты
 >
