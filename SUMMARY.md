@@ -8,7 +8,7 @@
 
 - [Часть 1. Что такое подсистема]()
   - [§ 1.1. Зачем БСП: общий старт](chapters/01_chto_takoe_podsistema/01-01_zachem_bsp.md)
-  - [✏️ § 1.2. Два значения слова «подсистема»](chapters/01_chto_takoe_podsistema/01-02_dva_znacheniya.md)
+  - [§ 1.2. Два значения слова «подсистема»](chapters/01_chto_takoe_podsistema/01-02_dva_znacheniya.md)
   - [§ 1.3. Что такое подсистема: лесенка](chapters/01_chto_takoe_podsistema/01-03_lesenka.md)
   - [§ 1.4. Чего в привычном мире нет: граница](chapters/01_chto_takoe_podsistema/01-04_granica.md)
   - [§ 1.5. Шов вместо границы: контракт](chapters/01_chto_takoe_podsistema/01-05_shov_kontrakt.md)
