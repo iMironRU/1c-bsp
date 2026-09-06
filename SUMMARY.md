@@ -27,3 +27,10 @@
   - [§ 3.4. Обратный вызов](chapters/03_sposoby_scepki/03-04_obratnyy_vyzov.md)
   - [§ 3.5. Почему пятого нет](chapters/03_sposoby_scepki/03-05_pochemu_pyatogo_net.md)
   - [§ 3.6. Как они складываются](chapters/03_sposoby_scepki/03-06_kak_skladyvayutsya.md)
+
+- [Часть 4. Подсистемы как упражнения]()
+  - [§ 4.1. Подсистемы, которые почти ничего не просят](chapters/04_podsistemy/04-01_prostye.md)
+  - [§ 4.2. Контактная информация и Свойства](chapters/04_podsistemy/04-02_ki_svoystva.md)
+  - [§ 4.3. Печать](chapters/04_podsistemy/04-03_pechat.md)
+  - [§ 4.4. Управление доступом](chapters/04_podsistemy/04-04_upravlenie_dostupom.md)
+  - [§ 4.5. Обмен данными](chapters/04_podsistemy/04-05_obmen_dannymi.md)
