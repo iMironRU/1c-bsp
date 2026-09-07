@@ -34,3 +34,19 @@
   - [§ 4.3. Печать](chapters/04_podsistemy/04-03_pechat.md)
   - [§ 4.4. Управление доступом](chapters/04_podsistemy/04-04_upravlenie_dostupom.md)
   - [§ 4.5. Обмен данными](chapters/04_podsistemy/04-05_obmen_dannymi.md)
+
+- [Часть 5. Когда конфигуратор трогать нельзя]()
+  - [§ 5.1. Расширения: граница, которой не было](chapters/05_snaruzhi/05-01_rasshireniya.md)
+  - [§ 5.2. Сцепка из расширения](chapters/05_snaruzhi/05-02_scepka_iz_rasshireniya.md)
+  - [§ 5.3. Дополнительные отчёты и обработки](chapters/05_snaruzhi/05-03_dop_obrabotki.md)
+
+- [Часть 6. Держать сопровождаемым]()
+  - [§ 6.1. Поддержка и слияние](chapters/06_derzhat_soprovozhdaemym/06-01_podderzhka_sliyanie.md)
+  - [§ 6.2. Антипаттерны](chapters/06_derzhat_soprovozhdaemym/06-02_antipatterny.md)
+  - [§ 6.3. Два режима](chapters/06_derzhat_soprovozhdaemym/06-03_dva_rezhima.md)
+  - [§ 6.4. Идентификаторы и обновление](chapters/06_derzhat_soprovozhdaemym/06-04_identifikatory_obnovlenie.md)
+
+- [Часть 7. Практика]()
+  - [§ 7.1. Сквозной пример: свой справочник целиком](chapters/07_praktika/07-01_skvoznoy_primer.md)
+  - [§ 7.2. Тренировка на Внедриконе](chapters/07_praktika/07-02_vnedrikon.md)
+  - [§ 7.3. Что дальше](chapters/07_praktika/07-03_chto_dalshe.md)
