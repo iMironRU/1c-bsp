@@ -50,3 +50,10 @@
   - [§ 7.1. Сквозной пример: свой справочник целиком](chapters/07_praktika/07-01_skvoznoy_primer.md)
   - [§ 7.2. Тренировка на Внедриконе](chapters/07_praktika/07-02_vnedrikon.md)
   - [§ 7.3. Что дальше](chapters/07_praktika/07-03_chto_dalshe.md)
+
+- [Часть 8. Что внедрять и к чему подключать]()
+  - [§ 8.1. Что закрывает библиотека](chapters/08_chto_vnedryat/08-01_chto_zakryvaet.md)
+  - [§ 8.2. Что брать](chapters/08_chto_vnedryat/08-02_chto_brat.md)
+
+- [Часть 9. Откуда это всё взялось]()
+  - [§ 9.1. Что есть в любом деловом приложении](chapters/09_otkuda_vzyalis/09-01_lyuboe_delovoe.md)
